@@ -45,12 +45,14 @@ The ROI and CV collectively helps us rank our "Best 5 Zipcodes" based on their R
 
 ## 4.1 Univariate Analysis
 In the univariate analysis, we explored state distribution, revealing South Carolina as the major contributor of our best 5 zipcodes. Moreover, we examined the average median house prices by state, with Ohio leading at approximately $350,000 and South Carolina at $120,000. 
-![Alt Text](image_path_or_url)
+![image](https://github.com/ImeldaMasika/Time-Series-Analysis-Zillow-Home-Value-Forecast-Model/assets/128219987/23d16b8e-67a3-453d-b063-39f512e6b281)
+
 
 ## 4.2 Bivariate Analysis
 For bivariate analysis, we tracked the average median house price patterns over time, observing a rise until 2008 and a later decline in 2009, followed by a recovery and peak in 2018. We also visualized how ROI varied among cities, with Greenville showing the highest at 1.75, while Florence's ROI stood at 1.65. 
 In summary, the EDA uncovered diverse trends within zip codes, ranging from steady growth to fluctuations, showcasing typical market patterns.
-![Alt Text](image_path_or_url)
+![image](https://github.com/ImeldaMasika/Time-Series-Analysis-Zillow-Home-Value-Forecast-Model/assets/128219987/9e53b7dc-c12e-4d78-bd48-37ba8d8a6f38)
+
 
 
 # 5.0 Modeling
